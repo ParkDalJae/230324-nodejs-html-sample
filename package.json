@@ -1,0 +1,20 @@
+{
+  "name": "230324-nodejs-html-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ParkDalJae/230324-nodejs-html-sample.git"
+  },
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ParkDalJae/230324-nodejs-html-sample/issues"
+  },
+  "homepage": "https://github.com/ParkDalJae/230324-nodejs-html-sample#readme"
+}
