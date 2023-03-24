@@ -21,6 +21,9 @@ const app = http.createServer((req,res)=>{
         case '/' :
             movePageServerWriteHead(res,"text/html",200,"./index.html")
             break
+        case '/style.css' :
+            movePageServerWriteHead(res,"text/css",200,"./style.css")
+            break
         default :
             movePageServerWriteHead(res,"text/html",404,"./404.html")
         }
